@@ -31,7 +31,7 @@
       grid-column: 1 / 5;
       grid-row: 1;
   }
-  .navbar{
+  .sidebar{
     grid-column: 1;
     grid-row: 2/4;
   }

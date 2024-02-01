@@ -1,6 +1,6 @@
 import './App.css';
 import Header from './components/header/header';
-import Navbar from './components/navbar/navbar';
+import Sidebar from './components/sidebar/sidebar';
 import Content1 from './components/content/content1';
 import Content2 from './components/content/content2';
 import Content3 from './components/content/content3';
@@ -11,7 +11,7 @@ function App() {
   return (
     <div className="App">
       <Header/>
-      <Navbar/>
+      <Sidebar/>
       <Content1/>
       <Content2/>
       <Content3/>
